@@ -8,6 +8,7 @@ const Main = styled.div`
   place-items: center;
   height: 100vh;
   width: 100vw;
+  text-align: center;
 `;
 
 const FlexCol = styled.div`
@@ -29,7 +30,6 @@ const Subtext = styled.p`
   font-size: 0.85rem;
   font-weight: 300;
   max-width: 50%;
-  text-align: center;
   color: #aaa;
   margin-top: 1rem;
 `;
