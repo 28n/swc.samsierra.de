@@ -6,8 +6,10 @@ const Main = styled.div`
   color: #fff;
   display: grid;
   place-items: center;
-  height: 100vh;
-  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+  min-width: 100vw;
+  width: 100%;
   text-align: center;
 `;
 
